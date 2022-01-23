@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @NFS86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey 👋, I'm [NFS86](https://t.me/Bella_Aprilia_27)!
 
-<!---
-NFS86/NFS86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="20px"> I'm from Indonesia
+- 🎓 I’m a college student 
+- 🌱 I'm currently learning C++ (?)
+- 😄 Pronouns: he/him/his
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+![](https://komarev.com/ghpvc/?username=NFS86)
+
+![AnGgIt86 github stats](https://github-stats-alpha.vercel.app/api/?username=NFS86&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
