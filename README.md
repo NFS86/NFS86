@@ -1,6 +1,6 @@
 # Hey 👋, I'm [NFS86](https://t.me/Bella_Aprilia_27)!
 
-- <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="20px height="20px"> I'm from Indonesia
+- <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="5dp"> I'm from Indonesia
 - 🎓 I’m a college student 
 - 🌱 I'm currently learning C++ (?)
 - 😄 Pronouns: he/him/his
